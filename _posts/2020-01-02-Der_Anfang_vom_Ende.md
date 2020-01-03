@@ -66,7 +66,7 @@ Heute ist aber ein komischer Tag, das spüre ich in meinen Knochen.
 - Morvin Dolchfurt
   - Politische Beteiligte im Stadtrat
 
-### Schiff "Umberlee's Stolz"
+### Schiff "{% include glossary_link.html title="Umberlee's Stolz" %}"
 
 Ein Schiff ist auf ein Riff in der nähe aufgelaufen, und niemand war zu
 sehen. Wir sollen uns das genauer anschauen.
