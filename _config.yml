@@ -1,0 +1,27 @@
+title: Das Ende aller Tage
+email: eat+dnd@cle.ar.it
+description: >- # this means to ignore newlines until "baseurl:"
+      Vom Leben an der Schwertküste.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ende-aller-tage.dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
+author: Wayneoween
+
+# Social Profiles
+twitter_username: Wayneoween
+github_username: Wayneoween
+
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+  # https://codepen.io/yoannhel/pen/sJpDj
+  # This needs to be done! :-)
+
+collections:
+  glossary:
+    output: false
+  quests:
+    output: false
