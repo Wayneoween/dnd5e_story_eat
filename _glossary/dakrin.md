@@ -12,4 +12,5 @@ Er leidet unter der Wahnvorstellung, dass er bekannt wie ein bunter Hund ist.
 
 > Ich bin doch bekannt, das weiß nur noch keiner!
 
-Scheint ein sehr talentierter und fähiger Schmied und Bastler zu sein.
+Scheint ein sehr talentierter und fähiger Schmied und Bastler zu sein, denn
+Willy Feuerhaar hat ihn angestellt.

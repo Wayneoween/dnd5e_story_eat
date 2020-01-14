@@ -3,7 +3,7 @@ title: Umberlee's Stolz
 type: Ort
 ---
 
-Vor Dolchfurt auf Grund gelaufenes Schiff, dessen Bewaffnung entfernt wurde um einen
+Vor {% include glossary_link.html title="Dolchfurt" %} auf Grund gelaufenes Schiff, dessen Bewaffnung entfernt wurde um einen
 schweren Stahlkubus an Bord zu transportieren. Inhalt des Würfels war
 vermutlich ein Knochenteufel, der bislang durch unbekannte Gründe ausbrechen
 konnte.

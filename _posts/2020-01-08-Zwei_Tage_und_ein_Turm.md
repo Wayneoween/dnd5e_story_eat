@@ -6,7 +6,7 @@ excerpt: Der Milizdienst endet, ein Abenteuer beginnt.
 background: "/img/posts/2020-01-08_turm.jpg"
 ---
 
-#### Der Rückweg nach Dolchfurt
+#### Der Rückweg nach {% include glossary_link.html title="Dolchfurt" %}
 
 Nachdem wir die beiden verbleibenden Crewmitglieder sicher von Bord gebracht
 haben, machten wir uns auf den Weg zurück in die Stadt.

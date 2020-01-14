@@ -13,7 +13,7 @@ background: "/img/posts/alturiak.jpg"
 Er wirkt nicht so richtig menschlich, aber mir ist nicht klar, wo genau er
 herkommt. Heute ist er jedenfalls die Leitung der Milizgruppe. Wirkt fähig im
 Kampf aber als Gruppenführer wenig tauglich. Kommt aus der Gegend, hat ein
-größeres Landhaus. Warum er in Dolchfurt ist, weiss ich nicht.
+größeres Landhaus. Warum er in {% include glossary_link.html title="Dolchfurt" %} ist, weiss ich nicht.
 
 ##### {% include glossary_link.html title="Dakrin" %} Hammerhaube
 
@@ -52,7 +52,7 @@ etwas verbirgt.
 Letztlich, ich selbst, Sohn der Hothemers aus Tiefwasser. Eigentlich eher
 musisch orientiert und ein begnadeter Lauten- und Panflötenspieler mache ich
 meiner Familie nun die Ehre als Geschäftsführer der Geschäftsstelle in
-Dolchfurt. Die Geschäfte laufen, der Handel blüht und unsere Kutschen und
+{% include glossary_link.html title="Dolchfurt" %}. Die Geschäfte laufen, der Handel blüht und unsere Kutschen und
 Wägen sind von hoher Qualität. Nicht zuletzt auch dank Herrn Hammerhaube.
 
 Heute ist aber ein komischer Tag, das spüre ich in meinen Knochen.
@@ -63,7 +63,7 @@ Heute ist aber ein komischer Tag, das spüre ich in meinen Knochen.
   - Kapitän der Stadtwache
 - Merowina
   - Priesterin Chauntea
-- Morvin Dolchfurt
+- Morvin {% include glossary_link.html title="Dolchfurt" %}
   - Politische Beteiligte im Stadtrat
 
 ### Schiff "{% include glossary_link.html title="Umberlee's Stolz" %}"

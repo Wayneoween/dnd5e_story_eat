@@ -9,7 +9,7 @@ Ein Hühne vor der Herrin. Größentechnisch auf jeden Fall das Gegenteil von
 {% include glossary_link.html title="Dakrin" %}, ich schätze ihn auf fast 3 Meter.
 
 Er ist wohl kampferprobt, hat aber kürzlich seinen Mentor verloren und in
-Dolchfurt begraben.
+{% include glossary_link.html title="Dolchfurt" %} begraben.
 
 Seine heiligen Zauber haben merkwürdige Manifestationen, wie etwa wildes
 Feuer, das dennoch heilt.
