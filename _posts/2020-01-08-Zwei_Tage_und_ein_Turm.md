@@ -15,7 +15,7 @@ Auf halbem Wege kam uns eine clownhaftige Gestalt entgegen, die sich als
 Priester Luc Sonnenlicht herausstellte, der gen Süden berufen wurde, um sich
 dort um Meldungen von Untoten zu kümmern.
 
-Wir wünschten viel Erfolg und Dedalus bestätigt die Meldungen nochmals, wir
+Wir wünschten viel Erfolg und {% include glossary_link.html title="Dedalus" %} bestätigt die Meldungen nochmals, wir
 jedoch, haben keine Zeit, da wird nun bei Eberron Hornschild bericht
 erstatten müssen.
 
@@ -25,7 +25,7 @@ neue Ausrüstung zu besorgen.
 
 Am Ende unserer Runde, die bei der Schmiede vorbeiführt finden wir einen
 leicht verwirrten Willy Feuerhaar, der Dolchfurts Meisterschmied ist
-(zufällig arbeitet Dakrin hier). Willy kann sich nicht erklären, wie eine
+(zufällig arbeitet {% include glossary_link.html title="Dakrin" %} hier). Willy kann sich nicht erklären, wie eine
 minderwertig verarbeitete Rüstung grade vor kurzem erst verkauft werden
 konnte. Minderwertig gibt es hier nämlich eigentlich nicht.
 
@@ -44,7 +44,7 @@ Ulfgar Langwald, sieht nicht nur alt aus, macht auch Witze wie ein alter
 reicher Sack. Seines Zeichens ehemaliger Abenteurer - angeblich hieß seine
 Bande "Blutrote Gesellschaft" - ist jetzt im Eisenhandel in Tiefwasser tätig
 und verdient sich dumm und dämlich (sagt er). Ihm fehlt ein Bein, mir tut der
-Kommentar des stolperns etwas leid. Dakrin sieht eine Möglichkeit ihm Gutes
+Kommentar des stolperns etwas leid. {% include glossary_link.html title="Dakrin" %} sieht eine Möglichkeit ihm Gutes
 zu tun und möchte ihm gerne mit einer technisch aufwändigen Prothese helfen.
 Das kann aber noch dauern.
 
@@ -61,9 +61,9 @@ sie gestorben ist, oder sollten wir das nicht bestätigen können, sämtliche
 Informationen die wir finden können, zu ihm bringen.
 
 Wir besuchen Priesterin Merowina im Chauntea-Tempel und erkunden uns wie
-Dedalus' Mentor sein Ende gefunden hat. Laut Aussage der Priesterin wurde er
+{% include glossary_link.html title="Dedalus" %}' Mentor sein Ende gefunden hat. Laut Aussage der Priesterin wurde er
 von äußerst ungewöhnlichen Untoten dahingestreckt (was das im Genauen
-bedeutet bleibt aber unklar). Einer Beerdigung in Dolchfurt stimmt Dedalus
+bedeutet bleibt aber unklar). Einer Beerdigung in Dolchfurt stimmt {% include glossary_link.html title="Dedalus" %}
 zu.
 
 #### Auf in den Süden
@@ -74,7 +74,7 @@ Schmiede ihren Verkauf nicht im Griff hat und minderwertige oder gar
 gebrauchte Ware im Aushang verkauft hat. Dafür haben wir allerdings gerade
 keine Zeit.
 
-Titus lädt uns ein auf seinem Wagen mit zu fahren. Das Pferd, mit dem
+{% include glossary_link.html title="Titus" %} lädt uns ein auf seinem Wagen mit zu fahren. Das Pferd, mit dem
 merkwürdigen Namen Regenbogensprint hat er wohl schon seit seiner Kindheit.
 Es wirkt etwas alt.
 
@@ -84,11 +84,11 @@ Regenbogensprint zu erlegen.
 
 ~~Wir machten kurzen Prozess mit dem Unwesen, belebten das Pferd wieder und
 kamen bald danach auch am besagten Turm an.~~<br>
-Dakrin meint, ich solle hier unbedingt betonen, dass wir nur durch die Kraft
+{% include glossary_link.html title="Dakrin" %} meint, ich solle hier unbedingt betonen, dass wir nur durch die Kraft
 unserer Freundschaft und gute Zusammenarbeit in der Gruppe das Monster
 erlegen und Regenbogensprint so retten konnten.
 
-Edric, über den uns eigentlich nichts wirklich bekannt ist, ausser vielleicht
+{% include glossary_link.html title="Edric" %}, über den uns eigentlich nichts wirklich bekannt ist, ausser vielleicht
 seinen Namen, machte sich auch mal nützlich und spähte in die verbleibenden
 Turmruinen, nur um dort einen garstigen Oger und einen Ork bei einer Mahlzeit
 vorzufinden.
@@ -102,8 +102,8 @@ anzufangen wussten.
 
 #### Hinab in den Turm
 
-Da aber unser talentierter Führer Aakash unbedingt eine Pause brauchte,
-konnten Titus und ich uns die Worte auf der Metallplatte einmal genauer
+Da aber unser talentierter Führer {% include glossary_link.html title="Aakash" %} unbedingt eine Pause brauchte,
+konnten {% include glossary_link.html title="Titus" %} und ich uns die Worte auf der Metallplatte einmal genauer
 ansehen und durch den Kopf gehen lassen.
 
 Sie lauteten:
@@ -113,11 +113,11 @@ Sie lauteten:
 </center>
 
 Während wir beide uns Gedanken machten, was diese Worte bedeuten sollen fand
-der findige Dakrin hinter dem Rüstungsständer mit der Platte Spuren einer
+der findige {% include glossary_link.html title="Dakrin" %} hinter dem Rüstungsständer mit der Platte Spuren einer
 Falltür.
 
-Nach etwas über einer Stunde wollte Dakrin gar anfangen den Boden zu
-demolieren, als Titus auffiel, dass man mit den Buchstaben auch folgenden
+Nach etwas über einer Stunde wollte {% include glossary_link.html title="Dakrin" %} gar anfangen den Boden zu
+demolieren, als {% include glossary_link.html title="Titus" %} auffiel, dass man mit den Buchstaben auch folgenden
 Satz bilden könnte:
 
 <center>

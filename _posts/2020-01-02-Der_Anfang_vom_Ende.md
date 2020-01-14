@@ -8,14 +8,14 @@ background: "/img/posts/alturiak.jpg"
 
 ### Mitglieder der heutigen Miliz
 
-##### Aakash von Menekod
+##### {% include glossary_link.html title="Aakash" %} von Menekod
 
 Er wirkt nicht so richtig menschlich, aber mir ist nicht klar, wo genau er
 herkommt. Heute ist er jedenfalls die Leitung der Milizgruppe. Wirkt fähig im
 Kampf aber als Gruppenführer wenig tauglich. Kommt aus der Gegend, hat ein
 größeres Landhaus. Warum er in Dolchfurt ist, weiss ich nicht.
 
-##### Dakrin Hammerhaube
+##### {% include glossary_link.html title="Dakrin" %} Hammerhaube
 
 Interessanter Bursche. Ein kleiner Typ von feurigem Gemüt und eben so
 feuriger Haarespracht. Etwas Oberwasser scheint er auch zu haben, meint jeder
@@ -24,7 +24,7 @@ ich kenne ihn nun auch noch nicht so lang. Jedenfalls ist er ein fähiger
 Schmied mit viel Elan und Enthusiasmus, hat sich schon mehrfach bezahlt
 gemacht, ihn in der Stadt zu haben.
 
-##### Dedalus
+##### {% include glossary_link.html title="Dedalus" %}
 
 Steht eigentlich nicht auf der Miliz-Liste, aber er brachte eine Leiche mit
 sich, als wir auf Patroullie waren und er schien Hilfe zu benötigen.
@@ -34,20 +34,20 @@ Gruppe mit, da er mit einem warmen Essen als Belohnung für das Tagwerk
 zufrieden zu sein schien. Er erwähnte auch etwas von Untoten im Süden, vor
 denen er wegzulaufen schien, schon seit tagesanbruch. Sportlich, sportlich.
 
-##### Edric Tandris
+##### {% include glossary_link.html title="Edric" %} Tandris
 
 Ein wandernder Söldner, der sich lediglich auf der Durchreise befand und sich
 für Geld und Logie zum Milizdienst gemeldet hatte. Ich habe diesen Halb-Elf
 noch nie vorher gesehen.
 
-##### Titus Wintergipfel
+##### {% include glossary_link.html title="Titus" %} Wintergipfel
 
 Ein weiterer merkwürdiger Geselle der Stadt. Ein Sohn von mittelmäßig
 erfolgreichen Handelsleuten, aber stets ein guter Kunde von uns. Ich schätze
 ihn jedoch sehr, auch als Freund, aber ich habe das Gefühl, dass er irgend
 etwas verbirgt.
 
-##### Wiltorin von Hothemer
+##### {% include glossary_link.html title="Wiltorin" %} von Hothemer
 
 Letztlich, ich selbst, Sohn der Hothemers aus Tiefwasser. Eigentlich eher
 musisch orientiert und ein begnadeter Lauten- und Panflötenspieler mache ich
