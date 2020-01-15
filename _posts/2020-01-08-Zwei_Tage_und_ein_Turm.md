@@ -50,7 +50,7 @@ Das kann aber noch dauern.
 
 #### Ein neuer Auftrag
 
-Ulfgar möchte von uns, dass wir nach einer Armelya Grauherz suchen, und
+Ulfgar möchte von uns, dass wir nach einer Amilya Grauherz suchen, und
 herausfinden, was mit ihr passiert ist. Er meint, sie ist tot oder
 verschollen, was wir in letzterem Fall überhaupt tun können weiß er auch
 nicht so richtig. Sie sei eine "alte Bekanntschaft" (Ja, ne, is klar) aus
@@ -60,7 +60,7 @@ aufgesucht. Warum, ist ebenfalls unbekannt. Wir sollen nun herausfinden ob
 sie gestorben ist, oder sollten wir das nicht bestätigen können, sämtliche
 Informationen die wir finden können, zu ihm bringen.
 
-Wir besuchen Priesterin Merowina im Chauntea-Tempel und erkunden uns wie
+Wir besuchen Priesterin Merovyna im Chauntea-Tempel und erkunden uns wie
 {% include glossary_link.html title="Dedalus" %}' Mentor sein Ende gefunden hat. Laut Aussage der Priesterin wurde er
 von äußerst ungewöhnlichen Untoten dahingestreckt (was das im Genauen
 bedeutet bleibt aber unklar). Einer Beerdigung in Dolchfurt stimmt {% include glossary_link.html title="Dedalus" %}
@@ -109,7 +109,7 @@ ansehen und durch den Kopf gehen lassen.
 Sie lauteten:
 
 <center>
-<code style='font-size:20px'>AUF RACHE FÄLLT AM</code>
+<code style='font-size:20px'>AUF RACHE FÜLLT AM</code>
 </center>
 
 Während wir beide uns Gedanken machten, was diese Worte bedeuten sollen fand
@@ -135,7 +135,7 @@ Treppenstufe.
 
 - Eberron Hornschild
   - Kapitän der Stadtwache
-- Merowina
+- Merovyna
   - Priesterin Chauntea
 - Luc Sonnenlicht
   - Hoher Lathanderpriester

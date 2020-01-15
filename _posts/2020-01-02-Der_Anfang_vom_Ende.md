@@ -61,7 +61,7 @@ Heute ist aber ein komischer Tag, das spüre ich in meinen Knochen.
 
 - Eberron Hornschild
   - Kapitän der Stadtwache
-- Merowina
+- Merowyna
   - Priesterin Chauntea
 - Morvin {% include glossary_link.html title="Dolchfurt" %}
   - Politische Beteiligte im Stadtrat
