@@ -8,7 +8,7 @@ background: "/img/posts/2020-01-15_deepness.jpg"
 
 ### (K)Ein Weg zurück
 
-Aakash geht zurück zum Turmeingang um sich etwas zu verarzten und um den
+{% include glossary_link.html title="Aakash" %} geht zurück zum Turmeingang um sich etwas zu verarzten und um den
 Eingang zu bewachen, währen wir tiefer in den Turm gehen und prompt eine
 Leiche finden! Es ist eine Halb-Elfin die scheinbar schon sehr lang hier
 liegt. Ich bin etwas schockiert, sie wirkte noch nicht sehr alt, aber nach
@@ -20,7 +20,7 @@ gemeisselte Vertiefungen sind...
 
 ### Augen
 
-Edric meint nach etwas Untersuchung, dass eines dieser Augen wie ein blindes
+{% include glossary_link.html title="Edric" %} meint nach etwas Untersuchung, dass eines dieser Augen wie ein blindes
 Auge aussieht. Wenn er meint. Er drückt seinen Finger in die Augenöffnung
 und tatsächlich passiert etwas, denn eine Wand neben ihm gibt den Weg zu
 einer Art Geheimgang frei!
@@ -33,7 +33,7 @@ gusseisernen Tür versperrt, die verschlossen scheint.
 Wir untersuchen die Tür, und es scheint eine Art Falle den Durchgang zu
 sichern. Unsere Neugier kennt leider keine Grenzen, weswegen wir einige
 Schritte zurückgehen und ich per magischer Hand die Türe öffne, nachdem
-Edric das Schloss geknackt hat.
+{% include glossary_link.html title="Edric" %} das Schloss geknackt hat.
 
 **EIN HÖLLENLÄRM GEHT LOS UND ICH KANN VOR LAUTER VERWIRRUNG NICHTS MEHR
 MACHEN UND VERZIEHE MICH ZURÜCK IN DEN RAUM MIT DEN AUGEN!**
@@ -50,7 +50,7 @@ also.
 
 Eine sehr steile Treppe führt zu einer Art Wasserbecken auf dessen Grund wir
 aus der Ferne etwas erkennen können. Leider können wir nicht sofort
-untersuchen was es ist, denn das Wasser greift uns an und Dedalus wird für
+untersuchen was es ist, denn das Wasser greift uns an und {% include glossary_link.html title="Dedalus" %} wird für
 einen kurzen Moment sogar bewusstlos. Ich kann aber schlimmeres verhindern.
 
 Gemeinsam überwältigen wir das Wasserwesen natürlich und finden auf dem Grund
@@ -74,7 +74,7 @@ In der Mitte scheint ebenfalls eine Leiche von jemandem zu liegen, allerdings
 ist schwer zu erkennen um wen es sich handeln könnte, überall liegt Staub.
 
 Beim Durchqüren des Raums springen ohne Vorwarnung kleine Staubwesen auf und
-versuchen uns in den Schlaf zu zaubern! Mir und Edric macht das
+versuchen uns in den Schlaf zu zaubern! Mir und {% include glossary_link.html title="Edric" %} macht das
 selbstverständlich nichts aus und wir entledigen uns dieser Kreaturen
 schnell.
 
@@ -89,7 +89,7 @@ alles einpacken.
 
 Auf den ersten Blick finden wir einen wirklich interessant aussehenden
 Gegenstand. Wirkt wie ein Stein, dessen unmittelbare Umgebung auf eine
-bestimmte Art verzerrt wirkt. Das ist selbst sichtbar, als Edric ihn
+bestimmte Art verzerrt wirkt. Das ist selbst sichtbar, als {% include glossary_link.html title="Edric" %} ihn
 einsteckt.
 
 Nichtsdestotrotz haben wir das Ziel unserer Erkundung - Amilya - noch nicht
@@ -98,7 +98,7 @@ gefunden und machen uns auf, tiefer in das Gewölbe.
 ### Wandmalereien wie aus der Hölle
 
 Es folgt ein breiter Gang, mit sechs grossen Wandmalereien, die, laut
-Dedalus, allesamt die Abyss beschreiben.
+{% include glossary_link.html title="Dedalus" %}, allesamt die Abyss beschreiben.
 
 Sie sehen wie folgt aus:
 
@@ -109,7 +109,7 @@ Sie sehen wie folgt aus:
 1. Weitreichende Landschaft mit Feldern, eine Burgruine und vielen Dämonen
 1. Eine weitere Ödnis, diesmal jedoch vulkanischen Ursprungs und ein ausbrechender Vulkan
 
-Dedalus gibt Edric ein Buch über Teufel. Woher hat er das? Wieso hat er das? Merkwürdig.
+{% include glossary_link.html title="Dedalus" %} gibt {% include glossary_link.html title="Edric" %} ein Buch über Teufel. Woher hat er das? Wieso hat er das? Merkwürdig.
 
 Aber zum Nachfragen bleibt keine Zeit, denn just in diesem Moment werden wir
 von einer kleinen Horde winziger Dämonen, die uns wohl belauscht haben und
@@ -136,11 +136,11 @@ diesmal offenbar Giftgas, zerbricht und einen Teil des Raumes unbetretbar
 macht.
 
 Edrics Augen entgeht nichts und er weisst uns auf einen Glaskolben mit sich
-bewegendem grünen Nebel hin, den Dakrin sogleich nimmt und in einem
+bewegendem grünen Nebel hin, den {% include glossary_link.html title="Dakrin" %} sogleich nimmt und in einem
 Metalltopf zerdeppert und den Deckel drauf legt.
 
 Das scheint den gewünschten Effekt gehabt zu haben, da wir nicht mehr
-angegriffen werden, aber als Dakrin den Deckel abnimmt entweicht eine
+angegriffen werden, aber als {% include glossary_link.html title="Dakrin" %} den Deckel abnimmt entweicht eine
 giftgrünliche Rauchwolke dem Topf, die wie ein gequältes Gesicht aussieht
 und verpufft im Raum.
 
@@ -160,13 +160,13 @@ Ulfgar bekommen haben. Ohne Plan, was wir damit direkt machen können, nehmen
 wir erstmal alles was heil geblieben ist mit zum Wagen und machen uns auf den
 Heimweg.
 
-Aakash ist derweil nirgendwo zu sehen und wir folgen seinen Spuren, die
+{% include glossary_link.html title="Aakash" %} ist derweil nirgendwo zu sehen und wir folgen seinen Spuren, die
 leider in einer offensichtlich blutigen Auseinandersetzung mit einem weiteren
 Hippogreifen endeten. Leichen finden wir keine. Vielleicht lebt er noch? Ich
-habe mittelviel Hoffnung. Leider kann Edric auch keine Spur finden, wohin
+habe mittelviel Hoffnung. Leider kann {% include glossary_link.html title="Edric" %} auch keine Spur finden, wohin
 einer oder beide hin sind, und so machen wir uns traurig auf den Rückweg.
 
-Auf dem Weg selbst wird uns aber bald schon langweilig, und Dakrin entkorkt
+Auf dem Weg selbst wird uns aber bald schon langweilig, und {% include glossary_link.html title="Dakrin" %} entkorkt
 den blauen Trank mit Amilya darin, was prompt dazu führt, dass sie aus ihrem
 Gefängnis befreit wird! Leider findet sie das zunächst nicht so gut und
 versucht uns anzugreifen.
@@ -178,14 +178,14 @@ nehmen sie mit zu Ulfgar, der ihr hoffentlich den Rest der Welt (und der 20
 Jahre, die sie wohl verpasst hat) erklärt.
 
 Die Leichen ihrer Freunde haben wir auch geborgen, und lassen sie in
-Dolchfurt begraben. Ihre Namen waren:
+{% include glossary_link.html title="Dolchfurt" %} begraben. Ihre Namen waren:
 
 - Kitri Silberhügel
 - Derin Flintmore
 - Thoradin Morgenfaust
 
-Jack Goldfurt ist ein Uhrenmacher, den Dakrin kennt, Amilya erwähnt ihn als
-ihren Mann/Verlobten zu dem sie jetzt unbedingt zurück will! Aber Dakrin
+Jack Goldfurt ist ein Uhrenmacher, den {% include glossary_link.html title="Dakrin" %} kennt, Amilya erwähnt ihn als
+ihren Mann/Verlobten zu dem sie jetzt unbedingt zurück will! Aber {% include glossary_link.html title="Dakrin" %}
 weiß, dass er verheiratet ist und Kinder mit jemand anderem hat und das
 vielleicht keine gute Idee ist.
 
