@@ -8,7 +8,7 @@ background: "/img/posts/2020-01-22_reise.jpg"
 
 ### Weg nach Hause
 
-Wir fahren nach Dolchfurt zurück, um Amilya bei Ulfgar abzuliefern. Sie wirkt
+Wir fahren nach {% include glossary_link.html title="Dolchfurt" %} zurück, um Amilya bei Ulfgar abzuliefern. Sie wirkt
 sehr verwirrt. Kann man ihr nicht übelnehmen, wenn ich die letzen 20 Jahre
 verpasst hätte, würde es mir auch so gehen.
 
@@ -65,7 +65,7 @@ gefunden?
 
 Alles etwas unklar, jedenfalls sitzt sie grade ein, Handgemenge sei der
 Grund. Wir sollen für 10 Gold (die Ulfgar uns gibt) sie aus dem Gefängnis
-bringen. Titus und ich nehmen uns der Sache an, und Edric folgt uns. Als ob
+bringen. Titus und ich nehmen uns der Sache an, und {% include glossary_link.html title="Edric" %} folgt uns. Als ob
 wir einen Aufpasser bräuchten.
 
 Der hiesige Anwalt _Volkur von Hörbe_ erklärt uns, warum sie einsitzt (aber
@@ -80,15 +80,15 @@ nicht das Gefühl, dass Amilya den Herren Goldfurt in naher Zukunft in Ruhe
 lassen wird.
 
 Ich komme zu dem Schluss, dass ich meinen Namen dafür nicht aufs Spiel setzen
-möchte. Wenn Mutter das erfährt... Auch Titus möchte an diesem laufenden
+möchte. Wenn Mutter das erfährt... Auch {% include glossary_link.html title="Titus" %} möchte an diesem laufenden
 Geschäftsrisiko nicht sein Gesicht verlieren und wir gehen zurück zu Ulfgar,
 kann er sich drum kümmern. Leider findet weder er, noch der Staatsanwalt das
 besonder lustig, aber am Ende kommen wir mit halber Verantwortung raus. Im
 Zweifel können wir also abstreiten, da eine klare Entscheidung getroffen zu
 haben.
 
-Etwas bedenklich fand ich allerdings, als Titus ihr damit gedroht hat,
-Zhentarim Söldner auf sie zu hetzen, sollte sie uns Probleme machen. Woher
+Etwas bedenklich fand ich allerdings, als {% include glossary_link.html title="Titus" %} ihr damit gedroht hat,
+{% include glossary_link.html title="Zhentarim" %} Söldner auf sie zu hetzen, sollte sie uns Probleme machen. Woher
 hat er diese Kontakte? Gegen Geld machen die natürlich alles, aber... so
 einfach ist es selten.
 
@@ -100,16 +100,16 @@ Angebot, dass sie mit uns kommen kann, um etwas den Kopf frei zu bekommen.
 
 Am nächsten Tag machen wir uns auf den Weg zur Glücklichen Kuh mit Amilya um
 ihr die Stadt zu zeigen, und davor sitzt, ein bisschen wie eine Statue, eine
-Art Katze, aber riesengroß. Als ich das Zeichen von Dakrin erkenne, wundert
+Art Katze, aber riesengroß. Als ich das Zeichen von {% include glossary_link.html title="Dakrin" %} erkenne, wundert
 mich garnichts mehr. Was hat er da schonwieder gebaut?
 
-Bereits am Tisch sitzen Dedalus, Dakrin und Edric und natürlich auch
+Bereits am Tisch sitzen Dedalus, {% include glossary_link.html title="Dakrin" %} und {% include glossary_link.html title="Edric" %} und natürlich auch
 Talladio, der uns zu diesem, wie er es nennt, "Katerfrühstück" eingeladen
 hat. Besonders gemütlich wird es nie, als zu allem Überfluss dann auch noch
 die gute Tür der glücklichen Kuh quasi explodiert und Sägespähne im ganzen
 Raum verteilt werden.
 
-Statt der Tür steht nun eine Dedalus-große Halbelfen-Barbarin (höchst
+Statt der Tür steht nun eine {% include glossary_link.html title="Dedalus" %}-große Halbelfen-Barbarin (höchst
 interessant, die sieht man hierzulande so selten wie Goliaths) mit einer
 Großaxt und wütendem Blick, der Talladio fokussiert und im nächsten Moment
 den Tisch zerstört an dem wir sitzen. Talladio wird unter den Resten
@@ -119,16 +119,16 @@ begraben.
 
 Ich nenne sie spontan _Grimhild_ und versuche sie mit etwas magischer
 Unterstützung zu beruhigen, der Hartkäses und meiner Gesundheit wegen. Als
-das aber nicht klappt und Titus sich an die Bar setzt, tue ich es ihm gleich.
+das aber nicht klappt und {% include glossary_link.html title="Titus" %} sich an die Bar setzt, tue ich es ihm gleich.
 Ist schließlich wirklich nicht unser Bier.
 
-Als ich mich zu Titus drehe, um ihm zuzuprosten, verschütte ich die Hälfte
+Als ich mich zu {% include glossary_link.html title="Titus" %} drehe, um ihm zuzuprosten, verschütte ich die Hälfte
 von meinem eigentlichen Bier, denn auf einmal sitzt Talladio, der eigentlich
 unter dem Tisch liegen sollte! Ich erkenne natürlich aber auch gleich die
 Illusion und wundere mich, warum er sich einmischt.
 
-Der echte Talladio wirft Edric einen Beutel mit, so vermute ich, Geld zu und
-Titus (der falsche Talladio) ruft etwas zu Grimhild und läuft durch die Küche
+Der echte Talladio wirft {% include glossary_link.html title="Edric" %} einen Beutel mit, so vermute ich, Geld zu und
+{% include glossary_link.html title="Titus" %} (der falsche Talladio) ruft etwas zu Grimhild und läuft durch die Küche
 davon.
 
 Sie fällt wohl auf diese Täuschung herein, und auch der echte Talladio
@@ -174,7 +174,7 @@ Hatterbucht lebt. Sie berichtet von einer Hexenerhängung wenige Monate bevor
 der Fluch die Stadt ergriffen hatte.
 
 Mit ihr müssen wir noch mal eingehender sprechen, aber jetzt grummelt der
-Magen und wir schauen, was Dedalus in der Taverne so angestellt hat.
+Magen und wir schauen, was {% include glossary_link.html title="Dedalus" %} in der Taverne so angestellt hat.
 
 ### Gewonnene Handelsware
 
